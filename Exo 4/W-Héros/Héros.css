@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    font-family: Regular;
+}
+@font-face{
+     font-family: Anicé;
+     src: url(/Far-From\ Homecoming\ Updated.otf);
+}
+@font-face{
+    font-family:bold;
+    src: url(/Montserrat/static/Montserrat-Bold.ttf);
+}
+@font-face{
+    font-family:Regular;
+    src: url(/Montserrat/static/Montserrat-Regular.ttf);
+}
+@font-face{
+    font-family:Semi-bold;
+    src: url(/Montserrat/static/Montserrat-SemiBold.ttf);
+}
+#Font{
+    color: #ffffff;
+    font-family: Anicé;
+}
+#Bold{
+    font-family: bold;
+    color: #ffffff;
+}
+#Regular{
+    font-family: Regular;
+    color: #ffffff;
+}
+#nav{
+    background-color: #114c92;
+}
+#li{
+    color: #ffffff;
+}
+#first{
+    background: url(/Illustration/img19.png);
+    background-size: cover;
+    padding: 180px 60px 150px 90px;
+}
+.ca{
+    background-image: url(/Illustration/img33.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bgs{
+      background-color: #114b9291;
+}
+#Icon{
+    border-radius: 25px;
+    padding: 5px;
+}
+#drop{
+    border-radius: 25px;
+}
+.svg{
+    filter: invert(100%);
+    padding-left: 120px;
+}
